@@ -1,2 +1,3 @@
 # bhakti-bot-demo
-my repo
+This is my git repo!!
+Author- Bhakti Balapurkar
